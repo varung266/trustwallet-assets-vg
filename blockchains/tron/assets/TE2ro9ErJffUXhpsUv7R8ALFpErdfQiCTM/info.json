@@ -1,6 +1,6 @@
 {
   "name": "TRC Token",
-  "website": "https://tronscan.io/#/token20/TE2ro9ErJffUXhpsUv7R8ALFpErdfQiCTM",
+  "website": "https://dex.coinmarketcap.com/token/tron/TE2ro9ErJffUXhpsUv7R8ALFpErdfQiCTM/",
   "description": "TRC20 token on TRON.",
   "explorer": "https://tronscan.io/#/token20/TE2ro9ErJffUXhpsUv7R8ALFpErdfQiCTM",
   "type": "TRC20",
@@ -9,9 +9,18 @@
   "status": "active",
   "id": "TE2ro9ErJffUXhpsUv7R8ALFpErdfQiCTM",
   "tags": [
-    "defi"
+    "defi",
+    "amm"
   ],
   "links": [
+    {
+      "name": "coinmarketcap",
+      "url": "https://dex.coinmarketcap.com/token/tron/TE2ro9ErJffUXhpsUv7R8ALFpErdfQiCTM/"
+    },
+    {
+      "name": "dexscreener",
+      "url": "https://dexscreener.com/tron/TAdC1wkfHrGWEQ3GYBXTFLyPSjywV1BsGD"
+    },
     {
       "name": "github",
       "url": "https://github.com/trustwallet/assets"
